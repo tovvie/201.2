@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+// i used video tutorials from youtube.com/@PandemoniumGameDev 
+// assets are from Unity called Dragon Warrior
 
 public class PlayerMovement : MonoBehaviour
 {
